@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
 React app for searching images. It has made use of unsplash api for get the images.
 
 ## Available Scripts
